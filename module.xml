@@ -1,0 +1,22 @@
+<module>
+    <rawname>servicereminder</rawname>
+    <repo>unsupported</repo>>
+    <name>Servicee Reminder</name>
+    <version>0.0.1</version>
+    <category>Custom</category>
+    <publisher>Lev Torgovanov</publisher>
+    <info>Available in README.txt file</info>
+    <license>GPL</license>
+    <licenselink>http://www.gnu.org/licenses/gpl-2.0.txt</licenselink>
+    <menuitems>
+        <servicereminder>Service Reminder</servicereminder>
+    </menuitems>
+    <depends>
+        <version>14</version>
+    </depends>
+    <supported>14.0</supported>
+    <description>This module is used to send to 1ASS info 'bout missed calls</description>
+    <changelog>
+        *0.0.1* initialised and released (may be bugs)
+    </changelog>
+</module>
